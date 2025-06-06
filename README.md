@@ -21,20 +21,6 @@ https://shuenning.github.io/ComputerGraphicAssgm/ComputerGraphic_index.html
 - CSS3
 - JavaScript
 
-## Setup Instructions
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/crescendo-animation.git
-```
-
-2. Navigate to the project directory:
-```bash
-cd crescendo-animation
-```
-
-3. Open `ComputerGraphic_index.html` in your web browser to view the animation.
-
 ## Project Structure
 
 - `ComputerGraphic_index.html` - Main HTML file
@@ -50,10 +36,6 @@ cd crescendo-animation
 ## License
 
 This project is open source and available under the MIT License.
-
-## Author
-
-[Your Name]
 
 ## Acknowledgments
 
