@@ -4,7 +4,7 @@ An interactive and dynamic animation created using p5.js, featuring geometric sh
 
 # Preview
 
-https://shuenning.github.io/ComputerGraphicAssgm/ComputerGraphic_index.html
+https://chenling65.github.io/animation/ComputerGraphic_index.html
 
 ## Features
 
