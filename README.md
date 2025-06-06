@@ -1,10 +1,10 @@
-# Crescendo Animation
+# Animation
 
 An interactive and dynamic animation created using p5.js, featuring geometric shapes, gradients, and smooth transitions. This project demonstrates various animation techniques and creative visual effects.
 
 # Preview
 
-
+https://shuenning.github.io/ComputerGraphicAssgm/ComputerGraphic_index.html
 
 ## Features
 
